@@ -2,7 +2,7 @@
 PDF Chatbot is a Streamlit-based application that allows users to chat with a conversational AI model trained on PDF documents. The chatbot extracts information from uploaded PDF files and answers user questions based on the provided context.
 
 
-## Getting Started
+## Dockeraized Development
 
 If you have docker installed, you can run the application using the following command:
 
@@ -51,10 +51,14 @@ Follow these instructions to set up and run this project on your local machine.
    streamlit run pdf_chatbot.py
    ```
 
-5. **Chat Interface:**
+## Chatbot Fearues & Functionalities
+
+**Upload Documents Interface**
    - Use the sidebar to upload PDF files.
-   - Click on "Submit" to extract text and generate embeddings.  
-   - Chat with the AI in the main interface.
+   - Click on "Submit" to extract text and generate embeddings.
+      
+**Chat Interface:**
+   - Chat with the AI in the main interface [Ask questions and get answers from Docs uploaded]
 
 ## Project Structure
 
@@ -63,3 +67,7 @@ Follow these instructions to set up and run this project on your local machine.
 - `requirements.txt`: Python packages required for working of the app.
 - `README.md`: Project documentation.
 
+## API Documentation
+Google Gemini: For providing the language model.
+
+Streamlit: the user interface framework.
