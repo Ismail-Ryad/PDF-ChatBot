@@ -30,8 +30,7 @@ Follow these instructions to set up and run this project on your local machine.
 1. **Clone the Repository:**
 
    ```bash
-   git clone[ github.com/Ismail-Ryad/PDF-ChatBo](https://github.com/Ismail-Ryad/PDF-ChatBot)
-   ```
+   git clone https://github.com/Ismail-Ryad/PDF-ChatBot.git
 
 2. **Install Dependencies:**
 
