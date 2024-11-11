@@ -71,3 +71,5 @@ Follow these instructions to set up and run this project on your local machine.
 Google Gemini: For providing the language model.
 
 Streamlit: the user interface framework.
+
+Langchain Framework
