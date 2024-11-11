@@ -72,4 +72,4 @@ Google Gemini: For providing the language model.
 
 Streamlit: the user interface framework.
 
-Langchain Framework
+Langchain: an open source orchestration framework for the development of applications using large language models (LLMs).
